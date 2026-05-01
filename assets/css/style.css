@@ -197,6 +197,12 @@ li::marker {
   overflow-x: auto;
 }
 
+/* ========== math ========== */
+
+.katex {
+  font-size: 0.95em !important;
+}
+
 /* ========== figures ========== */
 
 figure {
