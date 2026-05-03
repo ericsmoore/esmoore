@@ -47,22 +47,24 @@ subtitle: Best Apples, Ranked Objectively
 
 22. **Lady Alice:** 4.8/10
 
-23. **Jazz:** 4.75/10
+23. **Lemonade:** 4.8/10
 
-24. **Kissabel Rouge:** 4.75/10
+24. **Jazz:** 4.75/10
 
-25. **Pazazz:** 4.75/10
+25. **Kissabel Rouge:** 4.75/10
 
-26. **Modi:** 4.6/10
+26. **Pazazz:** 4.75/10
 
-27. **Sweetie:** 4.5/10
+27. **Modi:** 4.6/10
 
-28. **Golden Delicious:** 4.5/10
+28. **Sweetie:** 4.5/10
 
-29. **Ambrosia:** 4/10
+29. **Golden Delicious:** 4.5/10
 
-30. **Red Delicious:** 3.5/10
+30. **Ambrosia:** 4/10
 
-31. **Sugarbee:** 3/10
+31. **Red Delicious:** 3.5/10
 
-32. **Fuji:** 2/10
+32. **Sugarbee:** 3/10
+
+33. **Fuji:** 2/10
