@@ -3,7 +3,7 @@ title: On Apples
 subtitle: "A Cultivar Criticism"
 ---
 
-**Lemonade**
+**Lemonade**  
 4.8/10
 
 - You thought I was done for the season, but you're wrong. We live in a glorious age, where new apples can be discovered at any time of the year. This review and the last may not be entirely fair, as the apples have been sitting around, refrigerated for ages, so be aware. Again, I'm surprised at the resiliency of apples. For months in the fridge, the texture is not half bad. Juicy, just barely mealy, and actually a decent crunch. The skin was a bit bitter and chewy, but not horrible. The one thing: there's just very little flavor. The skin overpowers. Beyond that, there’s not much wrong with it. Not a bad apple. Just nothing special. (2026.04.20)
