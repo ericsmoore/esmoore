@@ -18,7 +18,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     [markup.goldmark.extensions.passthrough]
             enable = true
             [markup.goldmark.extensions.passthrough.delimiters]
-              block = [['\[', '\]'], ['$$', '$$']]
+              block = [['\[', '\]']]
               inline = [['\(', '\)']]
   [markup.goldmark.parser]
     [markup.goldmark.parser.attribute]
