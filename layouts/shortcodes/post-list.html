@@ -13,9 +13,9 @@
   <ul>
     {{ range .ByDate.Reverse }}
     {{ if .Params.Star }}
-      <li>{{ .Date.Format "01.02" }}:&nbsp;  <b><a href="{{ .RelPermalink }}">{{ .Title }}</a></li></b>
+      <li>{{ .Date.Format "01.02" }}:&nbsp;  <b><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li></b>
     {{ else }}
-      <li>{{ .Date.Format "01.02" }}:&nbsp;  <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      <li>{{ .Date.Format "01.02" }}:&nbsp;  <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
     {{ end }}
     {{ end }}
   </ul>

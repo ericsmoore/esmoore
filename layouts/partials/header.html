@@ -1,9 +1,9 @@
 <header>
   <hr>
-  <h1 class="page-title">{{ .Title }}</h1>
+  <h1 class="page-title">{{ .Title | markdownify }}</h1>
   <p class="page-subtitle" >
     {{ with .Params.subtitle }}
-      {{ . }}
+      {{ . | markdownify }}
       {{ if and $.IsPage $.Date }}&ndash;{{ end }}
     {{ end }}
 
