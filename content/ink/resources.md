@@ -5,11 +5,11 @@ Draft: True
 Hidden: True
 ---
 
-### [{{< sc >}}Iampeth{{< /sc >}}](https://www.iampeth.com)
+### [IAMPETH](https://www.iampeth.com)
 
->"{{< sc >}}Iampeth{{< /sc >}} is an international, non-profit
-association over 1500 members strong dedicated to practicing and
-preserving the beautiful arts of calligraphy, engrossing and fine
+>"IAMPETH is an international, non-profit association over
+1500 members strong dedicated to practicing and preserving
+the beautiful arts of calligraphy, engrossing and fine
 penmanship. Founded in 1949, it is the oldest and largest
 penmanship organization in the United States."
 [*](https://www.iampeth.com/content.aspx?page_id=22&club_id=765903&module_id=656675)
