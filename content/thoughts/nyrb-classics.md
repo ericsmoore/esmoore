@@ -12,7 +12,7 @@ of Books*](https://www.nybooks.com), of which I proudly know
 nothing about. However, their publishing branch is excellent, in
 my uneducated opinion. Their main imprint is NYRB Classics, which
 publishes "an eclectic mix of fiction and nonfiction from
-different eras and times and of various sorts."[^1] Many of the
+different eras and times and of various sorts."[*][*] Many of the
 books are either out of print or rarely translated into English,
 ripe for reprinting.
 
@@ -145,4 +145,4 @@ to have discovered a handful of new favorites. Best of all,
 I have this amazing band of color on my shelf, a reminder to
 always be as broad as I can in my reading.
 
-[^1]: [https://www.nyrb.com/pages/about](https://www.nyrb.com/pages/about)
+[*]: https://www.nyrb.com/pages/about
