@@ -61,23 +61,8 @@
   remember .Parent and .Section
 
   Manual from a param for now, might not need more.
-  -->
-  {{ block "nav" . }}
-  <nav>
-    {{ if or .IsHome (eq .Path "/about" )}}
-    <a href="{{ "/" | relURL }}" {{ if .IsHome }}class="active-page" {{ end }}>Home</a>
-    <span class="nav-sep">&ndash;</span>
-    <a href="{{ "/about/" | relURL }}" {{ if eq .Path "/about" }}class="active-page" {{ end }}>About</a>
-    {{ else }}
-    {{ if .Param "parent" }}
-    <a class = "back"; href="{{ .Params.parent | relURL }}"><<<</a>
-    {{ else }}
-    <a class = "back"; href="{{ "/" | relURL }}"><<<</a>
-    {{ end }}
-    {{ end }}
-  </nav>
-  {{ end }}
-
+    -->
+  {{ partial "nav.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
