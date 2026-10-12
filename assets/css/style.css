@@ -11,7 +11,7 @@
 }
 
 html {
-  font-size: 20px;
+  font-size: 21px;
 }
 
 * {
@@ -58,25 +58,6 @@ p {
   p {
     text-align: left;
   }
-}
-
-/* bookish (indented except first) */
-.bookish p {
-  margin: 0;
-  text-indent: 1.5rem;
-  line-height: 1.7rem;
-
-}
-
-.bookish p:first-of-type,
-.bookish .section-break+p,
-.bookish br+p,
-.bookish :is(h2, h3)+p {
-  text-indent: 0;
-}
-
-.bookish :is(h2, h3, br)+p {
-  margin-top: 1rem;
 }
 
 .section-break {
@@ -208,9 +189,9 @@ nav a {
   font-size: 0.8rem;
 }
 
-.footnotes {
-  margin-top: 2rem;
-}
+/* .footnotes { */
+/*   margin-top: 2rem; */
+/* } */
 
 /* ========== blockquote ========== */
 
