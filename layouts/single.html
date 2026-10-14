@@ -1,7 +1,0 @@
-{{ define "main" }}
-  {{ partial "header.html" . }}
-
-  <article{{ if .Params.bookish }} class="bookish"{{ end }}>
-    {{ .Content }}
-  </article>
-{{ end }}

@@ -6,23 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
     {{ block "title" . }}
-      {{ if .IsHome }}
+      {{ if or .IsHome (path "/about") }}
         {{ .Site.Title }}
       {{ else }}
-        ESM — {{ .Title }}
-      {{ end }}
+        ESM - {{ .Title }}
+      {{ end }}    
     {{ end }}
   </title>
-
-  {{ $branch := getenv "CF_PAGES_BRANCH" }}
-  {{ $buildTime := now.Format "2006-01-02T15:04:05Z07:00" }}
-  {{ $commit := getenv "CF_PAGES_COMMIT_SHA" }}
-
-  <meta name="build-date" content="{{ $buildTime }}">
-  {{ if $commit }}
-  <meta name="commit-hash" content="{{ $commit }}">
-  {{ end }}
-
+  
   {{ with resources.Get "css/style.css" }}
     {{ $css := . | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
@@ -49,24 +40,22 @@
 </head>
 
 <body class="{{ .Kind }}">
-  {{ if eq $branch "dev" }}
-  <div style="text-align: right;">
-    <b>Dev Preview</b>
-  </div>
-  {{ end }}
+  <header>
+    {{ block "header" . }}
+      {{ partial "nav.html" . }}
+      {{ partial "header.html" . }}
+    {{ end }}
+  </header>
 
-  <!--TODO: Page flag or specific section check
-  for a "back" button as well as a "<<<"
-  when page belongs to a bigger project.
-  remember .Parent and .Section
-
-  Manual from a param for now, might not need more.
-    -->
-  {{ partial "nav.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
 
+  <footer>
+    {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+    {{ end }}
+  </footer>
 </body>
 
 </html>
