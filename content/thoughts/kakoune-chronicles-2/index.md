@@ -130,10 +130,9 @@ valuable. There is an excellent [LSP][lsp]
 plugin that you can use to bring servers like Marksman and
 Markdown-Oxide into your editor.
 
-It is worth noting that no
-plugin or external program is needed to navigate in a hypertext
-style. `gf`, "goto file," will work nicely on filenames
-or paths.
+It is worth noting that no plugin or external program is needed to
+navigate in a hypertext style. `gf`, "goto file," will work nicely
+on filenames or paths.
 
 I've wanted to write a short poem where every word links to
 another. If I name the file of each connecting poem by the
@@ -182,13 +181,14 @@ the website.
 [^2]: See the [official design notes][design] and the article
 ["Why Kakoune"][why] by creator Maxime Coste.
 
-[^3]: Sitting awhile on this post, I've come to realize that
-Vim and Emacs both play better with sentences. Not a surprise,
-really; I will not deny that both editors are more *polished* than
-Kakoune, even if their flaws are polished into them. I'm planning
-for "Kakoune Chronicles 3" to address a possible solution.
+[^3]: Sitting awhile on this post, I've come to realize that Vim
+and Emacs both play better with sentences. Not a surprise, really;
+I will not deny that both editors are more *polished* than
+Kakoune, even if their flaws are polished into them. I think it
+would take only a slight modification to Kakoune's source to
+improve this.
 
-[survey]:https://kakoune-editor.github.io/community-articles/2020/12/12/results_interpretation_first_community_survey.html
-[design]:https://github.com/mawww/kakoune/blob/master/doc/design.asciidoc
+[survey]: https://kakoune-editor.github.io/community-articles/2020/12/12/results_interpretation_first_community_survey.html
+[design]: https://github.com/mawww/kakoune/blob/master/doc/design.asciidoc
 [why]: https://kakoune.org/why-kakoune/why-kakoune.html
 [lsp]: https://github.com/kakoune-lsp/kakoune-lsp
