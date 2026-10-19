@@ -1,17 +1,14 @@
-<header>
-  <hr>
-  <h1 class="page-title">{{ .Title | markdownify }}</h1>
-  <p class="page-subtitle" >
-    {{ with .Params.subtitle }}
-      {{ . | markdownify }}
-      {{ if and $.IsPage $.Date }}&ndash;{{ end }}
+<hr>
+<h1 class="page-title">{{ .Title | markdownify }}</h1>
+<p class="page-subtitle" >
+  {{ with .Params.subtitle }}
+    {{ . | markdownify }}
+    {{ if and $.IsPage $.Date }}&ndash;{{ end }}
+  {{ end }}
+   {{ if $.IsPage }}
+    {{ with .Date }}
+      {{ .Format "2006.01.02" }}
     {{ end }}
-
-    {{ if $.IsPage }}
-      {{ with .Date }}
-        {{ .Format "2006.01.02" }}
-      {{ end }}
-    {{ end }}
-  </p>
-  <hr>
-</header>
+  {{ end }}
+</p>
+<hr>
