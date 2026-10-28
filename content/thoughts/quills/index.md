@@ -237,8 +237,6 @@ pen.
 
 There is no end to learning this skill once you start.
 
-<br>
-
 ## Next Steps & Further Reading
 
 The impetus for this project was not to make a tool for broad edge
