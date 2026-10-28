@@ -2,7 +2,6 @@
 title: Kakoune Chronicles III
 subtitle: Reading a Plugin
 date: 2026-10-17
-draft: true
 code: true
 ---
 

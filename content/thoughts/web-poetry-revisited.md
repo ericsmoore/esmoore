@@ -8,7 +8,7 @@ on typesetting poetry in HTML, I wanted to revisit the
 [post](/thoughts/poetry-infrastructure) I wrote on the same topic
 in March. My method of choice, which Gwern calls "semantic class
 soup", was dismissed in the article as "a *compilation target*
-for some poetry DSL."[^1]
+for some poetry DSL."[*][*]
 
 ```html
 <div class="poem poem-wrap">
@@ -21,7 +21,7 @@ for some poetry DSL."[^1]
 
 I don't entirely agree with the criticism that authoring poetry
 by "encoding all the semantics" into classes is difficult---were
-we ever writing poetry directly in HTML anyway?[^2] A simple
+we ever writing poetry directly in HTML anyway?[^1] A simple
 script can convert text into the proper HTML immediately. I
 can understand if you're working in an environment where fonts,
 containers, styles, and all other kinds of presentation might
@@ -41,7 +41,7 @@ web. With poetry particularly, if dynamic enjambment/indentation
 is a priority, a simple solution without JavaScript is elusive.
 Of course, if you're not like me and don't hate JavaScript,
 you can wrap the text however you please, even breaking at the
-least disruptive points.[^3]
+least disruptive points.[^2]
 
 
 Looking for some answers online, I noticed that both the
@@ -63,13 +63,13 @@ few fragile lines of CSS.
 I'm going to keep it around for now. If needed, I can always link
 to the original plain text poem. I plan to continue looking for
 some way to have indentation with real spaces, and yet keep the
-dynamic hanging indent. I do believe it is possible somehow.[^4]
+dynamic hanging indent. I do believe it is possible somehow.[^3]
 
 
 
-[^1]: <https://gwern.net/poetry-html#semantic-class-soup>
+[*]: <https://gwern.net/poetry-html#semantic-class-soup>
 
-[^2]: This is actually a very interesting question to me,
+[^1]: This is actually a very interesting question to me,
 especially since I've been thinking a lot about hypertext
 literature in the last month. Most poems reaching the web were
 probably not written with the web in mind, I assume, and so to
@@ -80,13 +80,13 @@ It is not, unless you make it one, a fixed 5 by 8 inch page on
 which you write a poem, and it is part of the process to decide
 how to handle that.
 
-[^3]: See <https://gwern.net/poetry-html#nicer-line-breaking>.
+[^2]: See <https://gwern.net/poetry-html#nicer-line-breaking>.
 I accept that this level of design is beyond the capabilities
 of pure HTML and CSS, but I don't see the value anyway. If you
 care that much about the formatting of your poem, you should
 just distribute a PDF.
 
-[^4]: My best idea so far: If we can guarantee the right
+[^3]: My best idea so far: If we can guarantee the right
 font loads (now also restricted to that single font), we can
 match the width of a space to the unit used in our CSS. This
 unfortunately introduces a new problem: if the font fails to

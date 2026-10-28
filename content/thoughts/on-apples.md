@@ -404,6 +404,4 @@ specimens were purchased from grocery stores in Texas.*
 The birth of this page may be in response to judgment of my
 once-uneducated apple preferences. Never should the apple consumer
 consume apples blindly.  Genuine apple criticism is the only true
-path to a riper age.
-
---- Eric Moore, 2025.10.04
+path to a riper age. (2025.10.04)
