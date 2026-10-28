@@ -223,7 +223,7 @@ blockquote {
 p code, li code {
   font-size: .75rem;
   padding: 0rem 0.15rem;
-  background-color: #f0f0f0;
+  background-color: #ededed;
   white-space: pre;
 }
 
