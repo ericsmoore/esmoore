@@ -1,14 +1,12 @@
-<hr>
 <h1 class="page-title">{{ .Title | markdownify }}</h1>
 <p class="page-subtitle" >
   {{ with .Params.subtitle }}
     {{ . | markdownify }}
-    {{ if and $.IsPage $.Date }}&ndash;{{ end }}
+    {{ if and $.IsPage $.Date }}<nobr>&ndash;{{ end }}
   {{ end }}
    {{ if $.IsPage }}
     {{ with .Date }}
-      {{ .Format "2006.01.02" }}
+      </nobr>{{ .Format "2006.01.02" }}
     {{ end }}
   {{ end }}
 </p>
-<hr>

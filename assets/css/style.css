@@ -19,10 +19,6 @@ html {
   padding: 0;
 }
 
-header hr {
-  margin: 0 0 1rem 0;
-}
-
 /* ========== body ========== */
 
 body {
@@ -37,6 +33,21 @@ body {
   font-feature-settings: "liga", "kern", "onum";
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
+}
+
+/* ========== header, footer ========== */
+
+header {
+  margin: 1rem 0 3rem 0;
+}
+
+footer {
+  margin: 3rem 0 1rem 0;
+}
+
+footer p {
+  font-size: 0.9rem;
+  font-style: italic;
 }
 
 /* ========== paragraph ========== */
@@ -57,13 +68,6 @@ p {
   text-align: center;
   margin: 1.5rem 0 1.25rem 0;
   letter-spacing: .1rem;
-}
-
-hr {
-  border: none;
-  background-color: var(--fg);
-  height: 1px;
-  margin: 1rem auto;
 }
 
 sup {
@@ -101,13 +105,8 @@ h3 {
 
 /* home/section page spacing */
 
-.home h2, .section h2 {
-  margin-bottom: 0;
-  margin-top: 1rem;
-}
-
-.home ul, .section ul {
-  margin-top: .25rem;
+.home h2 {
+  margin-bottom: 0.25rem;
 }
 
 /* ========== lists ========== */
@@ -161,30 +160,18 @@ a:hover {
   text-underline-offset: .1rem;
 }
 
-a.active-page,
 a:hover {
   color: var(--link-active);
 }
 
-nav {
-  margin-bottom: 0.5rem;
-}
-
-nav a {
-  margin-right: 1.25rem;
-}
-
-.nav-sep {
-  display: none;
-}
-
 .footnotes {
   font-size: 0.8rem;
+  margin-top: 3rem;
 }
 
-/* .footnotes { */
-/*   margin-top: 2rem; */
-/* } */
+.footnotes hr {
+  display: none;
+}
 
 /* ========== blockquote ========== */
 

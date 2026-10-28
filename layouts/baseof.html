@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>
     {{ block "title" . }}
-      {{ if or .IsHome (path "/about") }}
+      {{ if .IsHome }}
         {{ .Site.Title }}
       {{ else }}
         ESM - {{ .Title }}
@@ -42,7 +42,6 @@
 <body class="{{ .Kind }}">
   <header>
     {{ block "header" . }}
-      {{ partial "nav.html" . }}
       {{ partial "header.html" . }}
     {{ end }}
   </header>
