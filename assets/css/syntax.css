@@ -67,7 +67,7 @@
 
 .chroma .c, .chroma .ch, .chroma .cm, .chroma .c1, .chroma .cs, .chroma .sd {
   color: var(--g_4);
-  font-stile: italic;
+  font-style: italic;
 }
 
 /* GenericDeleted */ .chroma .gd { color:var(--rust); }
