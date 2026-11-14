@@ -39,7 +39,8 @@ I was going to write a short review for each of them; I have
 since changed my mind. With my horrible memory, there was never a
 chance. Instead, here are my thoughts on two that stuck the most.
 
-<!--### ***My Death***, Lisa Tuttle
+<!-- {{< comment >}}
+### My Death, Lisa Tuttle
 - Originally Published 2004
 
 This was the only book I gave five stars. What
@@ -52,9 +53,10 @@ writer writing an autobiography of someone else. If that makes
 sense, you've read it.
 
 I *will* re-read this book sometime-maybe-soon. It deserves a more
-thoughtful review. I'll try to remember to link to it when I do.-->
+thoughtful review. I'll try to remember to link to it when I 
+{{< /comment >}} -->
 
-### ***Friday***, Michel Tournier
+### Friday, Michel Tournier
 - Originally Published 1967
 
 A retelling of the classic story of Robinson Crusoe. I've never
@@ -80,7 +82,7 @@ silences like a June night in England, others with the glaucous
 thickness of the mire, and yet others that are hard and sonorous
 as ebony.
 
-### ***The Universal Baseball Association Inc.***, Robert Coover
+### The Universal Baseball Association Inc., Robert Coover
 - Originally Published 1968
 
 I have never played or followed baseball. I couldn't describe how
