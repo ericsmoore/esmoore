@@ -91,6 +91,7 @@ h3 {
   line-height: 1.25;
   margin-bottom: 1rem;
   font-weight: 600;
+  font-variant-numeric: proportional-nums;
 }
 
 h2 {
