@@ -1,28 +1,43 @@
 @font-face {
-  font-family: 'Adobe Garamond';
+  font-family: 'EB Garamond';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/agaramondpro-regular.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-Regular.woff2') format('woff2');
   font-display: swap;
 }
 @font-face {
-  font-family: 'Adobe Garamond';
+  font-family: 'EB Garamond';
   font-style: italic;
   font-weight: 400;
-  src: url('/assets/fonts/agaramondpro-italics.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-Italic.woff2') format('woff2');
   font-display: swap;
 }
 @font-face {
-  font-family: 'Adobe Garamond';
+  font-family: 'EB Garamond';
   font-style: normal;
   font-weight: 600;
-  src: url('/assets/fonts/agaramondpro-semibold.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-SemiBold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CommitMono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/CommitMono-400-Regular.woff2') format('woff2');
   font-display: swap;
 }
 @font-face {
-  font-family: 'Adobe Garamond';
-  font-style: italic;
-  font-weight: 600;
-  src: url('/assets/fonts/agaramondpro-semibolditalic.woff2') format('woff2');
+  font-family: 'CommitMono';
+  font-style: normal;
+  font-weight: bold;
+  src: url('/assets/fonts/CommitMono-700-Regular.woff2') format('woff2');
   font-display: swap;
-}  
+}
+@font-face {
+  font-family: 'CommitMono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/assets/fonts/CommitMono-400-Italic.woff2') format('woff2');
+  font-display: swap;
+}

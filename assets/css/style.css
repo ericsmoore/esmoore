@@ -24,13 +24,13 @@ html {
 body {
   margin: .5rem auto;
   padding: .5rem 1rem;
-  max-width: 62ch;
+  max-width: 64ch;
 
   color: var(--fg);
   background: var(--bg);
 
-  font: 1rem/1.5 'Adobe Garamond', Garamond, 'Times New Roman', Times, serif;
-  font-feature-settings: "liga", "kern", "onum";
+  font: 1rem/1.5 'EB Garamond', Garamond, 'Times New Roman', Times, serif;
+  font-feature-settings: 'liga', 'kern', 'onum';
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 }
@@ -118,7 +118,7 @@ ol {
 }
 
 ul {
-  list-style-type: "-  "
+  list-style-type: '-  '
 }
 
 ol ul,
@@ -206,6 +206,10 @@ blockquote {
 }
 
 /* ========== code ========== */
+
+pre, code {
+  font-family: 'CommitMono';
+}
 
 p code, li code {
   font-size: .75rem;
