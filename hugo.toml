@@ -12,14 +12,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
     lineNos = false
     guessSyntax = false
   [markup.goldmark.renderer]
-    unsafe= true
+    unsafe = true
   [markup.goldmark.extensions]
     typographer = true
-    [markup.goldmark.extensions.passthrough]
-            enable = true
-            [markup.goldmark.extensions.passthrough.delimiters]
-              block = [['\[', '\]']]
-              inline = [['\(', '\)']]
+    [markup.goldmark.extensions.extras]
+      [markup.goldmark.extensions.extras.superscript]
+        enable = true
   [markup.goldmark.parser]
     [markup.goldmark.parser.attribute]
       block = true
@@ -27,17 +25,11 @@ ignoreLogs = ['warning-goldmark-raw-html']
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-[params]
-  math = false
-
 [taxonomies]
-  
 [outputs]
   home = ["HTML"]
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML"]
-
 [security.funcs]
   getenv = ['^HUGO_', '^CI$', '^CF_PAGES_']
