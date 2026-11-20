@@ -30,7 +30,7 @@ body {
   background: var(--bg);
 
   font: 1rem/1.5 'EB Garamond', Garamond, 'Times New Roman', Times, serif;
-  font-feature-settings: 'liga', 'kern', 'onum';
+  font-feature-settings: 'liga', 'kern', 'onum', 'pnum';
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 }
@@ -47,7 +47,6 @@ footer {
 
 footer p {
   font-size: 0.9rem;
-  font-style: italic;
 }
 
 /* ========== paragraph ========== */
@@ -91,7 +90,6 @@ h3 {
   line-height: 1.25;
   margin-bottom: 1rem;
   font-weight: 600;
-  font-variant-numeric: proportional-nums;
 }
 
 h2 {
@@ -108,6 +106,10 @@ h3 {
 
 .home h2 {
   margin-bottom: 0.25rem;
+}
+
+.home li {
+    font-variant-numeric: tabular-nums;
 }
 
 /* ========== lists ========== */
