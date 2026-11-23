@@ -11,7 +11,7 @@ This website has been a portfolio of my thoughts, works, and
 projects since early 2025. As of today, you'll find {{< stats
 pages >}} pages composed of {{< stats words >}} words.
 
-- Mail: <a href="mailto:eric@esmoore.com">eric@esmoore.com</a>
+- Mail: <eric@esmoore.com>
 - GitHub: [ericsmoore](https://github.com/ericsmoore)
 
 {{< post-list home >}}
