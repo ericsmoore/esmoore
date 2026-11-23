@@ -2,21 +2,21 @@
   font-family: 'EB Garamond';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/EBGaramond-Regular.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-Regular-Liga.woff2') format('woff2');
   font-display: swap;
 }
 @font-face {
   font-family: 'EB Garamond';
   font-style: italic;
   font-weight: 400;
-  src: url('/assets/fonts/EBGaramond-Italic.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-Italic-Liga.woff2') format('woff2');
   font-display: swap;
 }
 @font-face {
   font-family: 'EB Garamond';
   font-style: normal;
   font-weight: 600;
-  src: url('/assets/fonts/EBGaramond-SemiBold.woff2') format('woff2');
+  src: url('/assets/fonts/EBGaramond-SemiBold-Liga.woff2') format('woff2');
   font-display: swap;
 }
 
