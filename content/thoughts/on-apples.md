@@ -7,21 +7,21 @@ date: 2026-11-24
 **Macoun**\
 5.8/10
 
-- I wasn't sure this apple would be worth rating at all. There
+- I wasn't sure if this apple would be worth rating at all. There
 were no more than a dozen in the store and I grabbed the only one
 that wasn't too bruised for consumption. Nor was it a particularly
 appealing thing to gaze at: a big hunk of apple (even big enough
 to force me cutting the beast into eight pieces, not the usual
-quarters) covered in a muted reddish-brown. The inside, however,
-was a beautiful pale color, though the smell was underwhelming.
-Not to my surprise, the flesh was mushy, and the skin was chewy
-and stringy. The apple seemed to be rejecting its own skin, and I
-was flaying it as I took each bite. Redeemingly, the Macoun was
-quite juicy and the flavor was pleasant. Overwhelmingly a tart
-apple reminiscent of the McIntosh and its derivatives, but with
-just enough sweet melon and berry notes in the first half of the
-bite. Sometimes the sweetness lingered, but from most bites I came
-away with hints of lemon-lime. (2026.11.24)
+quarters) covered in a muted and brownish red. The inside,
+however, was a beautiful pale color, though the smell was
+underwhelming. Not to my surprise, the flesh was mushy, and the
+skin was chewy and stringy. The apple seemed to be rejecting its
+own skin, and I was flaying it as I took each bite. Redeemingly,
+the Macoun was quite juicy and the flavor was pleasant.
+Overwhelmingly a tart apple reminiscent of the McIntosh and its
+derivatives, but with just enough sweet melon and berry notes in
+the first half of the bite. Sometimes the sweetness lingered, but
+from most bites I came away with hints of lemon-lime. (2026.11.24)
 
 **Soluna**\
 5.3/10
