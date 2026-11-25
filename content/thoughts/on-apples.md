@@ -21,7 +21,7 @@ quite juicy and the flavor was pleasant. Overwhelmingly a tart
 apple reminiscent of the McIntosh and its derivatives, but with
 just enough sweet melon and berry notes in the first half of the
 bite. Sometimes the sweetness lingered, but from other bites I
-came away with hints of lemon-lime. (2026-11-24)
+came away with hints of lemon-lime. (2026.11.24)
 
 **Soluna**\
 5.3/10
