@@ -33,42 +33,44 @@ parent: "/thoughts/on-apples/"
 
 14. **Sunchaser:** 6/10
 
-15. **Cortland:** 5.75/10
+15. **Macoun:** 5.8/10
 
-16. **McIntosh:** 5.5/10
+16. **Cortland:** 5.75/10
 
-17. **Soluna** 5.3/10
+17. **McIntosh:** 5.5/10
 
-18. **Empire:** 5.25/10
+18. **Soluna** 5.3/10
 
-19. **Autumn Glory:** 5.25/10
+19. **Empire:** 5.25/10
 
-20. **Gala:** 5/10
+20. **Autumn Glory:** 5.25/10
 
-21. **Lucy Glo:** 5/10
+21. **Gala:** 5/10
 
-22. **Evercrisp:** 5/10
+22. **Lucy Glo:** 5/10
 
-23. **Lady Alice:** 4.8/10
+23. **Evercrisp:** 5/10
 
-24. **Lemonade:** 4.8/10
+24. **Lady Alice:** 4.8/10
 
-25. **Jazz:** 4.75/10
+25. **Lemonade:** 4.8/10
 
-26. **Kissabel Rouge:** 4.75/10
+26. **Jazz:** 4.75/10
 
-27. **Pazazz:** 4.75/10
+27. **Kissabel Rouge:** 4.75/10
 
-28. **Modi:** 4.6/10
+28. **Pazazz:** 4.75/10
 
-29. **Sweetie:** 4.5/10
+29. **Modi:** 4.6/10
 
-30. **Golden Delicious:** 4.5/10
+30. **Sweetie:** 4.5/10
 
-31. **Ambrosia:** 4/10
+31. **Golden Delicious:** 4.5/10
 
-32. **Red Delicious:** 3.5/10
+32. **Ambrosia:** 4/10
 
-33. **Sugarbee:** 3/10
+33. **Red Delicious:** 3.5/10
 
-34. **Fuji:** 2/10
+34. **Sugarbee:** 3/10
+
+35. **Fuji:** 2/10

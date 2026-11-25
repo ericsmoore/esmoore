@@ -1,13 +1,32 @@
 ---
 title: On Apples
 subtitle: "A Cultivar Criticism"
-date: 2026-08-30
+date: 2026-11-24
 ---
+
+**Macoun**\
+5.8/10
+
+- I wasn't sure this apple would be worth rating at all. There
+were no more than a dozen in the store and I grabbed the only one
+that wasn't too bruised for consumption. Nor was it a particularly
+appealing thing to gaze at: a big hunk of apple (even big enough
+to force me cutting the beast into eight pieces, not the usual
+quarters) covered in a muted reddish-brown. The inside, however,
+was a beautiful pale color, though the smell was underwhelming.
+Not to my surprise, the flesh was mushy, and the skin was chewy
+and stringy. The apple seemed to be rejecting its own skin, and I
+was flaying it as I took each bite. Redeemingly, the Macoun was
+quite juicy and the flavor was pleasant. Overwhelmingly a tart
+apple reminiscent of the McIntosh and its derivatives, but with
+just enough sweet melon and berry notes in the first half of the
+bite. Sometimes the sweetness lingered, but from other bites I
+came away with hints of lemon-lime. (2026-11-24)
 
 **Soluna**\
 5.3/10
 
-- Soluna: dark crimson, sweet, and slightly disappointing. Best
+- Dark crimson, sweet, and slightly disappointing. Best
 for preservation in an evil queen's fruit bowl. The earthy
 smell won't prepare you for how sweet this apple is. There's
 no tang, no bitterness, no complex flavors. It's sweet and only
@@ -38,13 +57,13 @@ much wrong with it. Not a bad apple. Just nothing special.
 
 - This apple has been on a journey, yet despite much time and
 transportation, it was still pretty crisp when it reached me. A
-little soft, but not mushy&mdash;we have to be fair. You barely
+little soft, but not mushy---we have to be fair. You barely
 even notice the skin, only a pleasant obstacle to remind you
 you’re eating something real, from a tree. It’s flavorful and
-sweet.  Usually, I’d wish for more acid to bite back, but the
+sweet. Usually, I’d wish for more acid to bite back, but the
 flavor of this apple is good on its own. Not wildly complex.
 Simple, reminiscent of the dull sweetness of canned fruit, or
-those fruit cups with cherries. And yes, it’s juicy.  (2026.02.13)
+those fruit cups with cherries. And yes, it’s juicy. (2026.02.13)
 
 **Sunchaser:**\
 6/10
@@ -52,7 +71,7 @@ those fruit cups with cherries. And yes, it’s juicy.  (2026.02.13)
 - I wish I could know more about this apple. Apparently, it’s a
 new Walmart exclusive. I know no more. That much is a mystery.
 Greater still is how they managed to alchemize an entire
-watermelon directly into the shell of an apple.  It has the exact
+watermelon directly into the shell of an apple. It has the exact
 same texture as one near the rind. It even tastes like melon, but
 with a weird anise aftertaste and even a little caramel. Light,
 watery, crunchy, and just barely sweet. Like a bland, unripe
@@ -67,7 +86,7 @@ itself. Thick stripes of orange, yellow, and red, like the ridges
 of a gourd. Mine had a nice crispy texture, a thin skin, and
 notable juiciness. The flavor was basic, sweet, and otherwise
 unsatisfying. A standard and middling apple in everything but
-appearance.  (2026.01.02)
+appearance. (2026.01.02)
 
 **Ludacrisp:**\
 7/10
@@ -79,7 +98,7 @@ a Ludacrisp is shockingly dense. Take a bite, however, and you get
 a texture too crisp and dry for the apple’s apparent weight. At
 the same time, it is quite juicy. Most importantly, Ludacrisp is
 an intensely tart citrusy flavor bomb, strong enough to give me a
-headache.  (2025.12.31)
+headache. (2025.12.31)
 
 **Pazazz:**\
 4.75/10
@@ -129,12 +148,12 @@ out a familiar, sweet, and still-lingering flavor. (2025.12.14)
 
 - Spotting this apple in the store was a wonderful surprise. An
 early Christmas gift from Lucy. I had just reviewed the Lucy Glo
-and found myself dissatisfied.  This was meant to be—a second
+and found myself dissatisfied. This was meant to be—a second
 chance. The first noticeable difference is the intense redness of
 the skin. Inside, the apple is splotched with red and pink, more
 so than the Glo. The texture is on the crunchy, chewy side. The
 skin is as nice as it looks, with a subtle snap that backs away to
-let the apple through.  Mainly tart, but with an aftertaste of
+let the apple through. Mainly tart, but with an aftertaste of
 subdued sweetness and cherry that lingers on the back of the
 tongue. Sadly, the second Rose I tasted was garbage. The original
 review remains unchanged as a gracious demonstration of the
@@ -176,7 +195,7 @@ impression. (2025.11.29)
 its muted, can’t-decide-if-red-or-yellow skin, nonexistent scent,
 mealy flesh, and flat flavor leaves the immortality-seeking apple
 consumer wanting. Perhaps if you squint your mouth, you might
-taste just a sprinkle of honey and ambiguous apple.  Not a drop of
+taste just a sprinkle of honey and ambiguous apple. Not a drop of
 acid to be seen. To be fair, this apple had been sitting in the
 fridge for longer than any apple deserves. (2025.11.27)
 
@@ -184,7 +203,7 @@ fridge for longer than any apple deserves. (2025.11.27)
 3.5/10
 
 - Red? Yes. It has a gorgeous, deep, and consistent crimson hue.
-Delicious? No.  The taste is barely present, only a hint. No depth
+Delicious? No. The taste is barely present, only a hint. No depth
 of flavor, just a whisper of bland apple sweetness. The texture is
 soft and sad, with a bite more chewy than crispy, and a tough
 skin. The juiciness is a minor plus. But what of it? The red
@@ -244,14 +263,14 @@ the strongest-smelling apple I’ve encountered. The skin is
 slightly tough, and the flesh has an average crunch, slightly
 chewy. The juiciness is good, and the flavor is an okay balance of
 sweet and sour. None of the chemical taste as in the Rave. Some of
-the cidery smell makes its way to the flavor, but not much.  This
+the cidery smell makes its way to the flavor, but not much. This
 bag was a little mealy, but given that this is an early-ripening
 apple, I might have just been late. (2025.10.13)
 - The Rave is a bit unusual, but the texture is wonderful. Skin
 not too chewy, with a good crisp bite. But the flavor? It’s
-slightly tart, but mostly sweet.  Almost too sweet. Weird chemical
+slightly tart, but mostly sweet. Almost too sweet. Weird chemical
 fruit flavor and bitterness. Tastes somewhat artificial to me. It
-could be so good, but that flavor is not pleasant.  (2025.09.29)
+could be so good, but that flavor is not pleasant. (2025.09.29)
 
 **Hunnyz:**\
 6.5/10
@@ -295,7 +314,7 @@ of honey, and the flesh was chewier and less pale. (2025.10.05)
 - An average, boring apple. Not much to say for flavor. Slightly
 sweet, slightly tart, mostly just mild overall. Tastes like
 unsweetened applesauce. Similar to the Fuji but without the
-disgustingly overpowering, in-your-face sweetness.  Thick skin but
+disgustingly overpowering, in-your-face sweetness. Thick skin but
 not too chewy. The texture of this one was unique. Somewhat mealy
 and grainy, but the bite starts snappy. Not one I’d buy unless you
 like apples with ignorable flavor. (2025.10.04)
@@ -305,7 +324,7 @@ like apples with ignorable flavor. (2025.10.04)
 
 - Bland, mushy, horrible flavor. Tastes like a bomb of white sugar
 with no depth. FAR too sweet. Aftertaste lingered for nearly an
-hour. Makes me sad.  (2025.10.03)
+hour. Makes me sad. (2025.10.03)
 
 **Snapdragon:**\
 6.75/10
@@ -313,7 +332,7 @@ hour. Makes me sad.  (2025.10.03)
 - This is a really good sweet apple, but it still has enough tart
 flavor to keep me interested. Super crispy and snappy, like the
 name suggests. No weird aftertaste. Has some pleasant flavors in
-the back that I can’t place.  (2025.10.02)
+the back that I can’t place. (2025.10.02)
 
 **Sugarbee:**\
 3/10
@@ -365,16 +384,16 @@ the skin. The skin is also slightly tough. (2025.09.21)
 6.25/10
 
 - A decent choice for sweet apple fans. Not so much if you like
-flavor.  Excellent styrofoam crunch and okay skin. Delicate sweet
+flavor. Excellent styrofoam crunch and okay skin. Delicate sweet
 flavor, which can be too delicate, often bland. A honey aftertaste
 if you’re lucky. Not nearly as tasty as it is beautiful. For the
-price, I find the Envy slightly underwhelming.  (2025.09.20)
+price, I find the Envy slightly underwhelming. (2025.09.20)
 
 **Pink Lady:**\
 7.25/10
 
 - Probably what Granny Smith was like before she turned an old
-sour hag.  (2025.09.19)
+sour hag. (2025.09.19)
 
 **Cosmic Crisp:**\
 7/10
@@ -403,5 +422,5 @@ specimens were purchased from grocery stores in Texas.*
 
 The birth of this page may be in response to judgment of my
 once-uneducated apple preferences. Never should the apple consumer
-consume apples blindly.  Genuine apple criticism is the only true
+consume apples blindly. Genuine apple criticism is the only true
 path to a riper age. (2025.10.04)
